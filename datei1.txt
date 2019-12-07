@@ -1,3 +1,5 @@
 Date1
 Date2
 Date3
+aenderungen tutorial stash 
+weiter nach commit und stash 
